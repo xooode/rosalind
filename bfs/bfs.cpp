@@ -20,7 +20,6 @@ int main()
 		G[a].push_back(b);
 	}
 
-
 	for (int i = 0; i < nV; i++)
 	{
 		vector<bool> visited(nV, false);
